@@ -3,9 +3,9 @@ package visualizationTS;
 
 public class DBConnector {
 	
-	String url = "jdbc:postgresql://47.91.72.131/swd";
-	String username = "agi";
-	String pw = "salzach2020$";
+	String url = "...";
+	String username = "...";
+	String pw = "....";
 	
 }
 */
